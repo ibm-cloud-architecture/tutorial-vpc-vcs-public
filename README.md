@@ -1,6 +1,6 @@
-# Use Use GUI, CLI or API to Connect an App deployed within VPC to a VCS deployment outside VPC
+# Use GUI, CLI or API to Connect an App deployed within VPC to a VCS deployment outside VPC
 ### Purpose
-This scenario consider a sample application deployed inside a regular VSI within a VPC, a VCS Cluster with at least one virtual machine (VMware based) and a connection framework between the two.
+This scenario uses a sample application deployed inside a regular VSI within a VPC, a VCS Cluster with at least one virtual machine (VMware based) and a connection framework between the two.
 
 ## VPC Functional Coverage
 | Function | Result | Notes |
@@ -18,7 +18,7 @@ This scenario consider a sample application deployed inside a regular VSI within
 
 ![](Diagram08-16-2019.png)
 
-* [Deploy using UI](UI)
+* [Deploy using GUI](UI)
 
 * [Deploy using CLI](CLI)
 

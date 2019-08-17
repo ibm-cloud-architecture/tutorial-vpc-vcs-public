@@ -1,4 +1,4 @@
-# Use UI to Connect an App deployed within VPC to a VCS deployment outside VPC
+# Use GUI to Connect an App deployed within VPC to a VCS deployment outside VPC
 ### Prerequisites
 
 1. Have an instance of [VMware vCenter Server (VCS)](https://cloud.ibm.com/docs/services/vmwaresolutions?topic=vmware-solutions-vc_vcenterserveroverview) on IBM Cloud.
